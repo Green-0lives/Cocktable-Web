@@ -1,11 +1,12 @@
 import Header from '../../layout/Header';
+import NaviBar from '../../layout/NaviBer';
 
 export default function Cocktail() {
    
     return (
         <div>
             <Header/>
-            안녀앟세요
+            <NaviBar/>
         </div>
     )
 }
